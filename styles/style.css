@@ -1,0 +1,17 @@
+body {
+    font-size: 3vmax;
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+h1 {
+    margin-top: 0;
+}
+
+button {
+    background-color: darkgray;
+    height: 10vmax;
+    width: 12vmax;
+    margin: 10px;
+    font-size: 3vmax;
+}
